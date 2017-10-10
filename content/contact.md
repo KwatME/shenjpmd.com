@@ -22,7 +22,7 @@ weight: 4
   <input type="reset" value="Reset">
 </li>
 </center>
-</ul><input type="hidden" name="_next" value="https://github.com/KwatME">
+</ul><input type="hidden" name="_next" value="#">
     <input type="hidden" name="_subject" value="shenjpmd.com">
     <input type="text" name="_gotcha" style="display:none"></form>
 
