@@ -22,8 +22,8 @@ weight: 4
   <input type="reset" value="Reset">
 </li>
 </center>
-</ul><input type="hidden" name="_next" value="?sent#formspree">
-    <input type="hidden" name="_subject" value="Subject for your mail like new message">
+</ul><input type="hidden" name="_next" value="https://github.com/KwatME">
+    <input type="hidden" name="_subject" value="shenjpmd.com">
     <input type="text" name="_gotcha" style="display:none"></form>
 
 {{< socialLinks >}}
