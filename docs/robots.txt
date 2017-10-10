@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://example.org//sitemap.xml
+Sitemap: https://kwatme.github.com/shenjpmd.com//sitemap.xml

@@ -1,4 +1,4 @@
-baseURL = "https://github.com/KwatME/shenjpmd.com/"
+baseURL = "https://kwatme.github.com/shenjpmd.com/"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
