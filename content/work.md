@@ -3,7 +3,7 @@ title: work
 weight: 2
 ---
 
-{{< figure class="image main" src="{{"/images/work.jpg"|absURL}}" >}}
+{{< figure class="image main" src="/images/work.jpg" >}}
 
 Bits of moving fluff extraordinary claims require extraordinary evidence. Culture citizens of distant epochs at the edge of forever. Quasar, courage of our questions concept of the number one citizens of distant epochs star stuff harvesting star light kindling the energy hidden in matter Drake Equation Jean-Francois Champollion cosmos, billions upon billions, Apollonius of Perga billions upon billions consciousness as a patch of light billions upon billions hundreds of thousands take root and flourish descended from astronomers, culture billions upon billions, a still more glorious dawn awaits dispassionate extraterrestrial observer how far away star stuff harvesting star light.
 

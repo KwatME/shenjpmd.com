@@ -7,12 +7,17 @@ disableKinds=["RSS"]
 title = "John Paul Shen, MD"
 
 [params]
-  description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
-                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
-  logo = "fa-diamond"
+  description = "Citizens of distant epochs, how far away trillion with pretty stories for which there's little good evidence muse about. Paroxysm of global death something incredible is waiting to be known, hearts of the stars brain is the seed of intelligence, Euclid prime number. Radio telescope, across the centuries astonishment at the edge of forever bits of moving fluff ship of the imagination a mote of dust suspended in a sunbeam, as a patch of light Sea of Tranquility. Venture laws of physics. With pretty stories for which there's little good evidence, culture Sea of Tranquility Flatland from which we spring billions upon billions rings of Uranus Cambrian explosion network of wormholes prime number, Apollonius of Perga and billions upon billions upon billions upon billions upon billions upon billions upon billions?"
+
+  logo = "fa-user-md"
   copyright = "John Paul Shen, MD & Huwate 'Kwat' Yeerna"
 
 [[params.social]]
   medium = "linkedin"
   icon = "linkedin"
-  link = "#"
+  link = "https://www.linkedin.com/in/john-paul-shen-393a2ab/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/kwatme/"

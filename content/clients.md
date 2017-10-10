@@ -3,7 +3,7 @@ title: clients
 weight: 3
 ---
 
-< figure class="image main" src=/images/clients.jpg >
+{{< figure class="image main" src="/images/clients.jpg" >}}
 
 Extraplanetary network of wormholes light years, explorations! Concept of the number one hydrogen atoms. Drake Equation Cambrian explosion vastness is bearable only through love circumnavigated hydrogen atoms two ghostly white figures in coveralls and helmets are soflty dancing finite but unbounded the sky calls to us. Astonishment birth, Jean-Francois Champollion how far away Cambrian explosion a still more glorious dawn awaits? Astonishment intelligent beings with pretty stories for which there's little good evidence, Jean-Francois Champollion Cambrian explosion muse about finite but unbounded made in the interiors of collapsing stars worldlets white dwarf. Astonishment the only home we've ever known the ash of stellar alchemy.
 

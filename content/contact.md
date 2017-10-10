@@ -3,7 +3,7 @@ title: contact
 weight: 4
 ---
 
-{{< figure class="image main" src="{{"/images/contact.jpg"|absURL}}" >}}
+{{< figure class="image main" src="/images/contact.jpg" >}}
 
 <form id="contactform" method="post" action="https://formspree.io/kwatme8@gmail.com"><div class="field half first">
   <input type="text" name="name" id="name" placeholder="Name">
