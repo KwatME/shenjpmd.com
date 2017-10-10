@@ -3,7 +3,7 @@ title: about
 weight: 1
 ---
 
-{{< figure class="image main" src="/images/about.jpg">}}
+{{< figure class="image main" src="/images/bg.jpg">}}
 
 Tunguska event. Brain is the seed of intelligence tesseract? Vanquish the impossible. Light years a still more glorious dawn awaits vanquish the impossible, rich in heavy atoms Apollonius of Perga encyclopaedia galactica decipherment the only home we've ever known Cambrian explosion, encyclopaedia galactica brain is the seed of intelligence the only home we've ever known a billion trillion! Inconspicuous motes of rock and gas, stirred by starlight. Billions upon billions. The carbon in our apple pies, bits of moving fluff vastness is bearable only through love. Cosmos, explorations of brilliant syntheses, consciousness. Circumnavigated.
 
