@@ -1,4 +1,1 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://kwatme.github.io/shenjpmd.com//sitemap.xml
